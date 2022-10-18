@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ñ»ò—þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼œ˜Åûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŠŠß‰
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¿ß’öùÿÿÿÿ8Þ Ü·¾0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¡É²ƒúÿÿÿÿ8è€Þ·¾0
+P
+java:S1128".Remove this unused import 'com.sun.jdi.Value'.(ñ»ò—þÿÿÿÿ8àõà·¾0

@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Ğ¤‹şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¿öšZ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹İ«
+g
+java:S1871"LThis branch's code block is the same as the block for the branch on line 21.(÷ĞÈüøÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(ÕÒ°Ò
+B
+java:S1125"'Remove the unnecessary boolean literal.(÷ĞÈüøÿÿÿÿ

@@ -1,0 +1,12 @@
+
+J
+java:S1066"/Merge this if statement with the enclosing one.(”Æ‰ˆøÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Íû“›ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å°ÖÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æà‚Û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÖ¿Úùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ³´’øÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(ÐÝ«°ùÿÿÿÿ

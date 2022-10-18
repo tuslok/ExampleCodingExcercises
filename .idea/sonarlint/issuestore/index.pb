@@ -1,0 +1,25 @@
+
+G
+src/AreaCalculator.java,7\d\7d66444a6ad6de4f3ce9a9bd1ed2fc67ee9c16c9
+C
+src/BarkingDog.java,2\0\20498f79f7b9ce1e34fce353adc0ea9d39be4496
+J
+src/DecimalComparator.java,1\e\1e7335f1727d55b4fd6ff07bff52ed89246882a9
+O
+src/FeetAndInchesConverter.java,d\3\d36c60e072bba465114db503b745c4e4dbb58363
+H
+src/EqualityPrinter.java,3\8\38db1142403c121f7b7d7e02be40107ead5ed849
+H
+src/EqualSumChecker.java,e\8\e8f40bd0b8742c452e56b8ea46a4010f92c13441
+C
+src/PlayingCat.java,c\1\c146d2e4a457f01535152e4f1621bea0ecf3b7ca
+M
+src/PositiveNegativeZero.java,3\0\30263979d03fc49bfd8481526aed08fe4bd6c27f
+R
+"src/SecondAndMinutesChallenge.java,3\a\3abb35e6a18d0b6df6e3d79fa6d3e5d60daa474f
+J
+src/TeenNumberChecker.java,e\5\e571c5361d111c17643b14e7845b703ad3b990d2
+G
+src/SpeedConverter.java,c\e\ce8125bf5d1ce5b0d1b06537a76b9ce792b9c3ec
+X
+(src/MinutesToYearsAndDaysCalculator.java,6\c\6c2b2666e853a0768f1682013b04a8a2687af5e6

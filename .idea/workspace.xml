@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExampleCodingExcercices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecimalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EqualSumChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EqualityPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FeetAndInchesConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinutesToYearsAndDaysCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlayingCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PositiveNegativeZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondAndMinutesChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpeedConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeenNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfDaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,49 +41,49 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SpeedConverter">
-    <configuration name="AreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaCalculator" />
-      <module name="ExampleCodingExcercices" />
+  <component name="RunManager" selected="Application.NumberOfDaysInMonth">
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualityPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EqualityPrinter" />
-      <module name="ExampleCodingExcercices" />
+    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberInWord" />
+      <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinutesToYearsAndDaysCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinutesToYearsAndDaysCalculator" />
-      <module name="ExampleCodingExcercices" />
+    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfDaysInMonth" />
+      <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PlayingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PlayingCat" />
-      <module name="ExampleCodingExcercices" />
+      <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SpeedConverter" />
-      <module name="ExampleCodingExcercices" />
+      <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfDaysInMonth" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.NumberInWord" />
         <item itemvalue="Application.SpeedConverter" />
         <item itemvalue="Application.PlayingCat" />
-        <item itemvalue="Application.EqualityPrinter" />
-        <item itemvalue="Application.MinutesToYearsAndDaysCalculator" />
-        <item itemvalue="Application.AreaCalculator" />
       </list>
     </recent_temporary>
   </component>
