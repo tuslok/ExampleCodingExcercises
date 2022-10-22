@@ -23,3 +23,5 @@ G
 src/SpeedConverter.java,c\e\ce8125bf5d1ce5b0d1b06537a76b9ce792b9c3ec
 X
 (src/MinutesToYearsAndDaysCalculator.java,6\c\6c2b2666e853a0768f1682013b04a8a2687af5e6
+E
+src/NumberInWord.java,5\e\5eb4a3ba7b9f31b38341eae5ac2e0fa2ade2e06c

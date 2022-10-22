@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfDaysInMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AllFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstAndLastDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SharedDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum3And5Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -41,37 +48,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberOfDaysInMonth">
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+  <component name="RunManager" selected="Application.NumberPalindrome">
+    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllFactors" />
       <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberInWord" />
+    <configuration name="EvenDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenDigitSum" />
       <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberOfDaysInMonth" />
+    <configuration name="FirstAndLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstAndLastDigitSum" />
       <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlayingCat" />
+    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LastDigitChecker" />
       <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpeedConverter" />
+    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPalindrome" />
       <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberOfDaysInMonth" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.NumberInWord" />
-        <item itemvalue="Application.SpeedConverter" />
-        <item itemvalue="Application.PlayingCat" />
+        <item itemvalue="Application.NumberPalindrome" />
+        <item itemvalue="Application.LastDigitChecker" />
+        <item itemvalue="Application.FirstAndLastDigitSum" />
+        <item itemvalue="Application.AllFactors" />
+        <item itemvalue="Application.EvenDigitSum" />
       </list>
     </recent_temporary>
   </component>
@@ -108,5 +115,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SharedDigit.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
