@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AllFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstAndLastDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LastDigitChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SharedDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum3And5Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlourPackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PaintJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5eb4a3ba7b9f31b38341eae5ac2e0fa2ade2e06c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -48,30 +43,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberPalindrome">
-    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AllFactors" />
+  <component name="RunManager" selected="Application.FlourPackProblem">
+    <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
       <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenDigitSum" />
-      <module name="ExampleCodingExcercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstAndLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstAndLastDigitSum" />
-      <module name="ExampleCodingExcercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LastDigitChecker" />
+    <configuration name="LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestPrime" />
       <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,13 +65,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberToWords" />
+      <module name="ExampleCodingExcercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaintJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PaintJob" />
+      <module name="ExampleCodingExcercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlourPackProblem" />
+        <item itemvalue="Application.PaintJob" />
+        <item itemvalue="Application.LargestPrime" />
+        <item itemvalue="Application.NumberToWords" />
         <item itemvalue="Application.NumberPalindrome" />
-        <item itemvalue="Application.LastDigitChecker" />
-        <item itemvalue="Application.FirstAndLastDigitSum" />
-        <item itemvalue="Application.AllFactors" />
-        <item itemvalue="Application.EvenDigitSum" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +118,91 @@
           <url>file://$PROJECT_DIR$/src/SharedDigit.java</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
