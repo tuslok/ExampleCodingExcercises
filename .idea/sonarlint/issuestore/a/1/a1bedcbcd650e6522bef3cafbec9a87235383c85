@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(°ç¡â
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ö‰íã
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(–’é„
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(­ôÆŸ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(æ›ûßşÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(óŠšŸ
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(¼ â-8À‡ƒ°À0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(‘°æ¶8¤µƒ°À0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¦€Ç´8¥µƒ°À0
+;
+java:S2185;"%Remove this silly call to "Math.ceil"(âÜÎ

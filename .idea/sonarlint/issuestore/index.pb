@@ -23,3 +23,15 @@ G
 src/SpeedConverter.java,c\e\ce8125bf5d1ce5b0d1b06537a76b9ce792b9c3ec
 X
 (src/MinutesToYearsAndDaysCalculator.java,6\c\6c2b2666e853a0768f1682013b04a8a2687af5e6
+E
+src/NumberInWord.java,5\e\5eb4a3ba7b9f31b38341eae5ac2e0fa2ade2e06c
+M
+src/FirstAndLastDigitSum.java,5\c\5cba556c941ac77798c1b2abe4738684c8151c52
+I
+src/LastDigitChecker.java,1\b\1bea3a45e6f9b721e6be638e47a2f8230050461c
+F
+src/NumberToWords.java,c\4\c45900d809e2ea96f49326c4c63584fadfdf8424
+E
+src/LargestPrime.java,a\e\ae7b025dc9a9bd71e655e867bc6c3e228b30656c
+A
+src/PaintJob.java,a\1\a1bedcbcd650e6522bef3cafbec9a87235383c85

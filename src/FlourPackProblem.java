@@ -14,31 +14,21 @@ public class FlourPackProblem {
             canPack (-3, 2, 12); should return false since bigCount is negative. */
 
     public static void main(String[] args) {
-       /* System.out.println(canPack (1, 0, 4));
         System.out.println(canPack (1, 0, 4));
-        System.out.println(canPack (1, 0, 4));
-        System.out.println(canPack (1, 0, 4));*/
+        System.out.println(canPack (1, 0, 5));
+        /*System.out.println(canPack (0, 5, 4));
+        System.out.println(canPack (2, 2, 11));
         System.out.println(canPack(2, 1, 5));
+        System.out.println(canPack(0,5,6));*/
     }
 
     public static boolean canPack(int bigCount, int smallCount, int goal){
-        boolean isPack = false;
-        int valueOfBigPack = 5;
-
-
-        if((bigCount < 0
-                || smallCount < 0)
-                || bigCount * valueOfBigPack > goal){
-            return isPack;
-        } else {
-            if (bigCount * valueOfBigPack >= goal){
-                isPack = true;
-            } else if (bigCount * valueOfBigPack + smallCount >= goal) {
-                isPack = true;
-            } else if (bigCount * valueOfBigPack % 5 == 0){
-                isPack = true;
-            }
+        if(bigCount < 0 || smallCount < 0 || goal < 0){
+            return false;
         }
-        return isPack;
+        bigCount = bigCount * 5;
+        boolean isOk = false;
+
+        return isOk;
     }
 }
