@@ -33,7 +33,7 @@ public class Point {
     private int x;
     private int y;
 
-    Point(){
+    public Point(){
 
     }
 
@@ -63,10 +63,10 @@ public class Point {
     }
 
     public double distance(int x, int y){
-        return 0;
+        return Math.sqrt(((getX() - x ) * (getX() - x)) + ((getY() - y) * (getY() - y)));
     }
 
     public double distance(Point point){
-        return (double) 0;
+        return Math.sqrt(((getX() - point.getX() ) * (getX() - point.getX())) + ((getY() - point.getY()) * (getY() - point.getY())));
     }
 }
