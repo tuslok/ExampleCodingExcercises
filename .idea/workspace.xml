@@ -5,11 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ComplexOperations/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComplexOperations/ComplexNumberMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cylinder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PoolArea/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PoolArea/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PoolArea/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Room/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Room/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Room/Desk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Room/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Room/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Room/Shelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Room/Wardrobe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Volvo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point/PointMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point/PointMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlourPackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlourPackProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +67,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ComplexNumberMain">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarpetCostCalculator.Calculator" />
+  <component name="RunManager" selected="Application.House">
+    <configuration name="Composition.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composition.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CarpetCostCalculator.*" />
+          <option name="PATTERN" value="Composition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarpetCostCalculator.CalculatorMain" />
+    <configuration name="Cylinder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cylinder.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CarpetCostCalculator.*" />
+          <option name="PATTERN" value="Cylinder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComplexNumberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComplexOperations.ComplexNumberMain" />
+    <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
+      <module name="ExampleCodingExcercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Room.House" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComplexOperations.*" />
+          <option name="PATTERN" value="Room.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point.PointMain" />
+    <configuration name="PoolArea.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PoolArea.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Point.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WallMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WallArea.WallMain" />
-      <module name="ExampleCodingExcercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WallArea.*" />
+          <option name="PATTERN" value="PoolArea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComplexNumberMain" />
-        <item itemvalue="Application.PointMain" />
-        <item itemvalue="Application.CalculatorMain" />
-        <item itemvalue="Application.WallMain" />
-        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.House" />
+        <item itemvalue="Application.Composition.Main" />
+        <item itemvalue="Application.FlourPackProblem" />
+        <item itemvalue="Application.PoolArea.Main" />
+        <item itemvalue="Application.Cylinder.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +186,106 @@
           <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
           <line>24</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
