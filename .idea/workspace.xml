@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/EnhancedPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Task/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Task/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Holden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Mitsubishi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room/Task/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room/Task/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room/Task/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room/Task/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room/Task/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room/Task/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListAndArrayList/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListAndArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumElement/MinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReferenceTypes/Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FlourPackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlourPackProblem.java" afterDir="false" />
     </list>
@@ -48,40 +43,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Polymorphism.Main">
-    <configuration name="Encapsulation.Task.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Task.Main" />
+}</component>
+  <component name="RunManager" selected="Application.ListAndArrayList.Main">
+    <configuration name="ListAndArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListAndArrayList.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.Task.*" />
+          <option name="PATTERN" value="ListAndArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
-      <module name="ExampleCodingExcercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Main" />
+      <option name="MAIN_CLASS_NAME" value="Baking.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="PATTERN" value="Baking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polymorphism.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.Main" />
+    <configuration name="MinimumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumElement.MinimumElement" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="MinimumElement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Room.Task.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Room.Task.Main" />
+    <configuration name="Reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceTypes.Reference" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Room.Task.*" />
+          <option name="PATTERN" value="ReferenceTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArray.ReverseArray" />
+      <module name="ExampleCodingExcercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReverseArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Polymorphism.Main" />
-        <item itemvalue="Application.Encapsulation.Task.Main" />
-        <item itemvalue="Application.Room.Task.Main" />
-        <item itemvalue="Application.FlourPackProblem" />
+        <item itemvalue="Application.ListAndArrayList.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.MinimumElement" />
+        <item itemvalue="Application.Reference" />
       </list>
     </recent_temporary>
   </component>
@@ -174,106 +175,6 @@
           <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
           <line>24</line>
           <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Encapsulation/Task/Main.java</url>

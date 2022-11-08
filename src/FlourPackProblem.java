@@ -28,25 +28,7 @@ public class FlourPackProblem {
         }
         boolean isPack = false;
 
-        int support = goal - bigCount * 5;
-        if (support >= 0) {
-            if (smallCount - support >= 0) {
-                isPack = true;
-            } else {
-                int rest = goal - smallCount;
-                if (rest == 0) {
-                    isPack = true;
-                } else {
-                    if (rest % 5 == 0) {
-                        isPack = true;
-                    }
-                }
-            }
-        } else {
-            if (goal - smallCount >= 0) {
-                isPack = true;
-            }
-        }
+
         return isPack;
     }
 }
