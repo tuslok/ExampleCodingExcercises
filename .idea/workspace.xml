@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListAndArrayList/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListAndArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumElement/MinimumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferenceTypes/Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseArray/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Playlist/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Playlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Playlist/Song.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlourPackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlourPackProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListAndArrayList/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListAndArrayList/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListAndArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListAndArrayList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,33 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ListAndArrayList.Main">
+  <component name="RunManager" selected="Application.Playlist.Main">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Demo" />
+      <module name="ExampleCodingExcercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Main" />
+      <module name="ExampleCodingExcercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListAndArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListAndArrayList.Main" />
       <module name="ExampleCodingExcercises" />
@@ -64,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baking.Main" />
+    <configuration name="MobilePhone.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MobilePhone.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Baking.*" />
+          <option name="PATTERN" value="MobilePhone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,38 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumElement.MinimumElement" />
+    <configuration name="Playlist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Playlist.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MinimumElement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReferenceTypes.Reference" />
-      <module name="ExampleCodingExcercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReferenceTypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseArray.ReverseArray" />
-      <module name="ExampleCodingExcercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReverseArray.*" />
+          <option name="PATTERN" value="Playlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Playlist.Main" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.LinkedList.Main" />
+        <item itemvalue="Application.MobilePhone.Main" />
         <item itemvalue="Application.ListAndArrayList.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.MinimumElement" />
-        <item itemvalue="Application.Reference" />
       </list>
     </recent_temporary>
   </component>
