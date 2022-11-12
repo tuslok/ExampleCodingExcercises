@@ -1,0 +1,15 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êâ—‡ÿÿÿÿÿ
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³òĞ8ªóÌâÅ0
+5
+java:S1700"Rename field "groceryList"(Êâ—‡ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’«„êşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğ­‰æ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’µº
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ê¯îôıÿÿÿÿ
+\
+java:S11264"AReplace this if-then-else statement by a single return statement.(˜ÁÇğşÿÿÿÿ
+Q
+java:S1144*"6Remove this unused private "removeGroceryItem" method.(Ü¯‘£ûÿÿÿÿ
