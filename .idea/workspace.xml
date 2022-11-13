@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Printer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Printer/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Task/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Task/Printer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.BillsBurgers.Main">
+    <configuration name="BillsBurgers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BillsBurgers.Main" />
+      <module name="ExampleCodingExcercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BillsBurgers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.Demo" />
       <module name="ExampleCodingExcercises" />
@@ -83,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobilePhone.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MobilePhone.Main" />
-      <module name="ExampleCodingExcercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MobilePhone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Playlist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Playlist.Main" />
       <module name="ExampleCodingExcercises" />
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BillsBurgers.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Playlist.Main" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.LinkedList.Main" />
-        <item itemvalue="Application.MobilePhone.Main" />
       </list>
     </recent_temporary>
   </component>
