@@ -51,9 +51,5 @@ V
 &src/MinimumElement/MinimumElement.java,a\7\a756e25135d39a38dfe64ab9ce90064bee877bd7
 F
 src/Arrays/Arrays.java,1\5\15af040b48619a8b7ed9825f5109959d8e3d08c7
-U
-%src/ListAndArrayList/GroceryList.java,3\1\313bda3e5c3a8d6dd3b90465a68a92fe6c869ed2
-N
-src/ListAndArrayList/Main.java,c\9\c9195e7fe0521bb3d09bc8248c8ad2f454071963
 H
 src/LinkedList/Main.java,0\4\042c6b46fff45650496cf99a31ca9f624776321a

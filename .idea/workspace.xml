@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillsBurgers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhone/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhone/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/313bda3e5c3a8d6dd3b90465a68a92fe6c869ed2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9195e7fe0521bb3d09bc8248c8ad2f454071963" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BillsBurgers.Main">
+  <component name="RunManager" selected="Application.MobilePhone.Main">
     <configuration name="BillsBurgers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BillsBurgers.Main" />
       <module name="ExampleCodingExcercises" />
@@ -69,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Printer.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="Encapsulation.Printer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Printer.Main" />
+    <configuration name="MobilePhone.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MobilePhone.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.Printer.*" />
+          <option name="PATTERN" value="MobilePhone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MobilePhone.Main" />
         <item itemvalue="Application.BillsBurgers.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Playlist.Main" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.LinkedList.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +184,26 @@
           <url>file://$PROJECT_DIR$/src/Encapsulation/Task/Main.java</url>
           <line>36</line>
           <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MobilePhone/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MobilePhone/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MobilePhone/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MobilePhone/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="257" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
