@@ -7,6 +7,7 @@ public class Main {
         Bank bank = new Bank("National Australia Bank");
 
         bank.addBranch("Adelaide");
+        bank.addBranch("Adelaide");
 
         bank.addCustomer("Adelaide", "Tim", 50.05);
         bank.addCustomer("Adelaide", "Mike", 175.34);
@@ -16,7 +17,10 @@ public class Main {
         bank.addCustomerTransaction("Adelaide", "Tim", 12.44);
         bank.addCustomerTransaction("Adelaide", "Mike", 1.65);
 
-        bank.listCustomers("Adelaide", true);
+        Customer newCustomer = new Customer("Mark", 45.63);
+
+        newCustomer.addTransaction(46.56);
+        bank.listCustomers("Adelaide", false);
 
         //  -  addCustomerTransaction(), has two parameters of type String (name of customer), double (transaction) and returns a boolean.
         //  Returns true if the customers transaction was added successfully or false otherwise.

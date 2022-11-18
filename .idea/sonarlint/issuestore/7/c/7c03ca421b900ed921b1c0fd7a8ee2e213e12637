@@ -1,0 +1,13 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(á•šá
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Ó:
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(–µÌ‰ùÿÿÿÿ
+D
+java:S1940Y")Use the opposite operator ("!=") instead.(‚ßØ‡øÿÿÿÿ
+Y
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(‚ßØ‡øÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(þäýè
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ý·Èé8þ¢‡ßÇ0
+B
+java:S1068",Remove this unused "myNumber" private field.(Ä›÷•

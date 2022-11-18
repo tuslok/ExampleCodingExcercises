@@ -1,0 +1,18 @@
+
+e
+java:S1192O"ODefine a constant instead of duplicating this literal " for an extra " 4 times.(É¾öœ
+]
+java:S1192O"GDefine a constant instead of duplicating this literal "Added " 4 times.(É¾öœ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€Ê­Şøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(èœßö
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(É¾öœ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(Ï¨¸°
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ÖÒ—Óıÿÿÿÿ
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(Úä‘8Ã„€”Ç0
+V	java:S125e"<This block of commented-out lines of code should be removed.(™Íú şÿÿÿÿ
+>
+java:S10687"(Remove this unused "name" private field.(Ë¥¼
+C
+java:S10688"(Remove this unused "meat" private field.(Ùíï¤ÿÿÿÿÿ
+G
+java:S1068:"1Remove this unused "breadRollType" private field.(ùùÅâ

@@ -20,7 +20,7 @@ public class Branch {
 
     public Branch(String name) {
         this.name = name;
-        this.customers = new ArrayList<>();
+        this.customers = new ArrayList<Customer>();
     }
 
     public String getName() {
@@ -31,17 +31,34 @@ public class Branch {
         return customers;
     }
 
-
+    // newCustomer(), has two parameters of type String (name of customer), double (initial transaction) and returns a boolean.
+    // Returns true if the customer was added successfully or false otherwise.
     public boolean newCustomer(String customerName, double initialTransaction) {
         if (findCustomer(customerName) == null) {
-            Customer customer = new Customer(customerName);
+            Customer customer = new Customer(customerName, initialTransaction);
             customer.addTransaction(initialTransaction);
-            customers.add(customer);
+            //System.out.println(customer.getName() + " -> " + initialTransaction);
+            this.customers.add(customer);
             return true;
         }
         return false;
     }
 
+    // addCustomerTransaction(), has two parameters of type String (name of customer), double (transaction) and returns a boolean.
+    // Returns true if the customers transaction was added successfully or false otherwise.
+
+    public boolean addCustomerTransaction(String customerName, double transaction){
+        if (findCustomer(customerName) == null) {
+            Customer customer = new Customer(customerName, transaction);
+            customer.addTransaction(transaction);
+            return true;
+        }
+
+        return false;
+    }
+
+    // findCustomer(), has one parameter of type String (name of customer) and returns a Customer.
+    // Return the Customer if they exist, null otherwise.
     public Customer findCustomer(String customerName) {
         for (Customer customer : customers) {
             if (customer.getName().equals(customerName)) {
