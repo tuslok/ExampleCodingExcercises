@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Generics/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Playlist/MySolution/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Playlist/MySolution/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/042c6b46fff45650496cf99a31ca9f624776321a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4045af87b241c7ec32ad3ab0fd82ca253e948ec5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81d43fcf22e0554af298a2f788b90822091803e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93e7fae3aa3edc77e2797fb94760ee222de58c14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1d1cd761b8fa5fce2cc451586a182b4bb1d8b10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed64833ae85922b416118ffe8098912e587a2990" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Banking/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banking/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Banking/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banking/Branch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Banking/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banking/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Banking/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banking/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Playlist/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Playlist/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Playlist/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Playlist/MySolution/Song.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +56,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Banking.Main">
+  <component name="RunManager" selected="Application.Playlist.MySolution.Main">
     <configuration name="Banking.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Banking.Main" />
       <module name="ExampleCodingExcercises" />
@@ -70,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Printer.Main" />
+    <configuration name="Generics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.Printer.*" />
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Playlist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Playlist.Main" />
+    <configuration name="Playlist.MySolution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Playlist.MySolution.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Playlist.*" />
+          <option name="PATTERN" value="Playlist.MySolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Playlist.MySolution.Main" />
+        <item itemvalue="Application.Generics.Main" />
         <item itemvalue="Application.Banking.Main" />
         <item itemvalue="Application.MobilePhone.Main" />
         <item itemvalue="Application.BillsBurgers.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Playlist.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -210,24 +223,14 @@
           <option name="timeStamp" value="345" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Banking/Main.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="346" />
+          <url>file://$PROJECT_DIR$/src/Playlist/MySolution/Album.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="378" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Banking/Main.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="347" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Banking/Bank.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="362" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Banking/Bank.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="363" />
+          <url>file://$PROJECT_DIR$/src/Playlist/MySolution/Main.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="385" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
