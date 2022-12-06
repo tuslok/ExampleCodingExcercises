@@ -73,3 +73,27 @@ L
 src/MobilePhone/Contact.java,7\8\78ec4a9e7f9d9a5592d49b4c235e0c9c288b89ae
 P
  src/MobilePhone/MobilePhone.java,7\c\7c03ca421b900ed921b1c0fd7a8ee2e213e12637
+L
+src/LinkedList/Customer.java,d\1\d1d1cd761b8fa5fce2cc451586a182b4bb1d8b10
+H
+src/LinkedList/Main.java,0\4\042c6b46fff45650496cf99a31ca9f624776321a
+H
+src/LinkedList/Demo.java,4\0\4045af87b241c7ec32ad3ab0fd82ca253e948ec5
+P
+ src/Generics/BaseballPlayer.java,2\6\26eacb2a647d778932d6b2126c75b09176431085
+H
+src/Generics/Player.java,f\5\f5d474b765897ebc4860a635829ec57838ddf71b
+P
+ src/Generics/FootballPlayer.java,d\1\d1ebee2994f63244b785730aa9c668837b89b933
+N
+src/Generics/SoccerPlayer.java,2\6\26b6aae3b5e7939f6f2e340cb8de9c49e90aab03
+F
+src/Generics/Main.java,d\d\dd31c3f5df6946a2c983b9c62590fd54acc675b9
+F
+src/Generics/Team.java,f\8\f8d200d302d1150604cd49d43fcd15a1f5828147
+F
+src/Playlist/Song.java,e\d\ed64833ae85922b416118ffe8098912e587a2990
+G
+src/Playlist/Album.java,9\3\93e7fae3aa3edc77e2797fb94760ee222de58c14
+F
+src/Playlist/Main.java,8\1\81d43fcf22e0554af298a2f788b90822091803e8

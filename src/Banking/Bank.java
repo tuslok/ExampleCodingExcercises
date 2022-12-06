@@ -28,9 +28,11 @@ public class Bank {
         if (branches.contains(name)) {
             return false;
         }
+        if (findBranch(name) != null){
+            return false;
+        }
         //TODO
         // Add possibility of another branch with the same name.
-
         System.out.println("Customer details for branch " + name);
         branches.add(new Branch(name));
         return true;

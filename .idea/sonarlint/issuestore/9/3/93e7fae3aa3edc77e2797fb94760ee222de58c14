@@ -1,0 +1,13 @@
+
+„
+java:S1319+"iThe type of "playList" should be an interface such as "List" rather than the implementation "LinkedList".(à·Ç©úÿÿÿÿ
+~
+java:S1319:"iThe type of "playList" should be an interface such as "List" rather than the implementation "LinkedList".(ôçâ%
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÎ“d
+^
+java:S11261"AReplace this if-then-else statement by a single return statement.(çÙ¬´8Š¦êŞÉ0
+>
+java:S1068
+"(Remove this unused "name" private field.(Ë¥¼
+E
+java:S1068"*Remove this unused "artist" private field.(†ğÖŠıÿÿÿÿ
