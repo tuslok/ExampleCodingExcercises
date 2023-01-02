@@ -1,0 +1,6 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê˜¾
+Q
+java:S1854	";Remove this useless assignment to local variable "player1".(ÑŽŸË
+B
+java:S1481	",Remove this unused "player1" local variable.(ÑŽŸË

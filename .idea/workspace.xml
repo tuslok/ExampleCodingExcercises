@@ -5,34 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClass/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClass/GearBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PackageChallenge/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope/ScopeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScopeChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScopeChallenge/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/MyWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Banking/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banking/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/ISaveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/ISaveable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,12 +54,26 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Abstract.Main">
+  <component name="RunManager" selected="Application.ScopeChallenge.Main">
+    <configuration name="AbstractClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClass.Main" />
+      <module name="ExampleCodingExcercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Abstract.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abstract.Main" />
       <module name="ExampleCodingExcercises" />
@@ -72,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Banking.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Banking.Main" />
+    <configuration name="ScopeChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScopeChallenge.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Banking.*" />
+          <option name="PATTERN" value="ScopeChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Main" />
+    <configuration name="Scope.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scope.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="Scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface.Main" />
+    <configuration name="com.example.awtSample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.awtSample.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InnerClass.Main" />
-      <module name="ExampleCodingExcercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InnerClass.*" />
+          <option name="PATTERN" value="com.example.awtSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScopeChallenge.Main" />
+        <item itemvalue="Application.Scope.Main" />
+        <item itemvalue="Application.com.example.awtSample.Main" />
+        <item itemvalue="Application.AbstractClass.Main" />
         <item itemvalue="Application.Abstract.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Interface.Main" />
-        <item itemvalue="Application.Banking.Main" />
-        <item itemvalue="Application.Generics.Main" />
       </list>
     </recent_temporary>
   </component>

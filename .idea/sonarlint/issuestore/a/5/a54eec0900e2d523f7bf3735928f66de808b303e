@@ -1,0 +1,20 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¯úà
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óäåÔûÿÿÿÿ
+E
+java:S2175"0A "ArrayList<Branch>" cannot contain a "String".(½½Ò
+S	java:S106$"9Replace this use of System.out or System.err by a logger.( Ù½·øÿÿÿÿ
+H
+java:S1135""2Complete the task associated to this TODO comment.(…ïœ†
+\
+java:S11261"AReplace this if-then-else statement by a single return statement.(Üôóÿÿÿÿÿ
+<
+java:S1125Y"'Remove the unnecessary boolean literal.(Ì‹şh
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ÜÉÓó
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(Ï¡ş“ûÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ŠÉÄöúÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(ï¦Ìûüÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ÜÉÓó
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
