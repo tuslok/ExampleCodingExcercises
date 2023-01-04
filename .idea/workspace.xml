@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/ListItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/NodeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PackageChallenge/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scope/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scope/ScopeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScopeChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScopeChallenge/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/MyWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Accessible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/ExtendedPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/SIBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/StaticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,13 +57,13 @@
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ScopeChallenge.Main">
-    <configuration name="AbstractClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClass.Main" />
+  <component name="RunManager" selected="Application.Final.Main">
+    <configuration name="Final.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractClass.*" />
+          <option name="PATTERN" value="Final.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abstract.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstract.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstract.*" />
+          <option name="PATTERN" value="Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Final.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ScopeChallenge.Main" />
         <item itemvalue="Application.Scope.Main" />
         <item itemvalue="Application.com.example.awtSample.Main" />
-        <item itemvalue="Application.AbstractClass.Main" />
-        <item itemvalue="Application.Abstract.Main" />
       </list>
     </recent_temporary>
   </component>
