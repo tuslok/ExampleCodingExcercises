@@ -1,0 +1,12 @@
+
+k
+java:S1104"UMake publicVar a static final constant or non-public and provide accessors if needed.(…¯˜±
+v
+java:S1104"TMake varThree a static final constant or non-public and provide accessors if needed.(’àÏÂÿÿÿÿÿ8©„¨×0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö‘¬şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥çó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ­éõşÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø“¨¿şÿÿÿÿ8òõËªÖ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞõÛ¡şÿÿÿÿ8ßèÍªÖ0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¤ĞÛ‰8à×š×0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(³…ãÓùÿÿÿÿ8ò×0

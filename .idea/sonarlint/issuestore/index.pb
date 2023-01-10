@@ -127,3 +127,47 @@ H
 src/Abstract/CanFly.java,e\7\e7ddd5b19adcdb74999cf7386b2d6b5ed3bd4bdc
 F
 src/Abstract/Main.java,a\2\a2ba63eee4269f6aa28488c85121c67a3de1cce8
+O
+src/AbstractClass/NodeList.java,6\2\62f39c09b1ecb7f139f87090e06beb76f386d647
+S
+#src/AbstractClass/MyLinkedList.java,d\d\dd7220fd6e5dbf554095fa31479bb4f7b3928de9
+K
+src/AbstractClass/Main.java,9\6\9600995ae5ed7d4e3f47d9ee8d706725fbdfed9c
+S
+#src/com/example/awtSample/Main.java,b\5\b50caa0b2211a106f08f06cc0d3606d41ac34049
+K
+src/AbstractClass/Node.java,1\9\193f1b293c20428d08da3249d989534b149d2cdd
+W
+'src/com/example/awtSample/MyWindow.java,8\c\8c25edd6adde16c17122dff6cf9cb25ab81df86d
+P
+ src/PackageChallenge/Series.java,e\6\e6c765c968ed24a822926adff98f356eaa9480db
+O
+src/AbstractClass/ListItem.java,3\a\3a4e81ca0ea53f1e01ce21206aea7b15fbcf1803
+I
+src/Scope/ScopeCheck.java,1\9\19404fa9c3d5ebc8130c339382eec6a706d3c17e
+C
+src/Scope/Main.java,f\0\f04b19924bf923b947900c054ab02a43379406c6
+I
+src/ScopeChallenge/X.java,c\0\c0b9d49ba0dbb4bc33db73936ab88990f2afe7fa
+L
+src/ScopeChallenge/Main.java,4\f\4f1ad8ba2b0ee69e30a7de23689b91b86de6efa7
+P
+ src/AccessModifiers/Account.java,d\0\d0e783693309c3efa0dc93f77118d6bd5eb952f9
+M
+src/AccessModifiers/Main.java,1\f\1f95f84578f32de736f9d8959bd029de791dd536
+S
+#src/AccessModifiers/Accessible.java,c\1\c1457be52cb80658cbd4dacff9d764560c2e53a5
+J
+src/Static/StaticTest.java,b\d\bd918d18fc8ebd8d408c523199918b4e8408a1f8
+D
+src/Static/Main.java,b\2\b2505449c67cd09556aa2aadafbd60fcd6b4917b
+H
+src/Final/SomeClass.java,2\2\2268f2556b8e5f5a6c946573fc9c3ed16588025b
+G
+src/Final/Password.java,f\a\fab53d9ed7e2691ac99f7116197ddba773036033
+O
+src/Final/ExtendedPassword.java,0\5\052a23dba5f407c4197fdbc6a427e7e822101500
+F
+src/Final/SIBTest.java,9\c\9c2df4fb94e2b5d66be9dc969e7766df5646cf33
+C
+src/Final/Main.java,b\f\bfcfa6f6686c6f984f776da2c855c326b211e679

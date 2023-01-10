@@ -1,0 +1,8 @@
+
++
+java:S1700"Rename field "x"(ĞÇñüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ü¡ó
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(İÎ¤Âşÿÿÿÿ
+I
+java:S1117"4Rename "x" which hides the field declared at line 6.(œÏ2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íæœ×8Êßì×0
