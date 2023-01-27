@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SetAndHashSet/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetAndHashSet/DogMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetAndHashSet/HeavenlyBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetAndHashSet/Labrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetAndHashSet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetAndHashSet/SetMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetsTask/DwarfPlanet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetsTask/HeavenlyBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetsTask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetsTask/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetsTask/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortedCollections/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortedCollections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortedCollections/StockItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortedCollections/StockList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortedCollections/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortedCollections/Basket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortedCollections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortedCollections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortedCollections/StockItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortedCollections/StockItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortedCollections/StockList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortedCollections/StockList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,0 +1,22 @@
+
+\
+java:S1192K"FDefine a constant instead of duplicating this literal "Pluto" 4 times.(ß°ü·
+[
+java:S1192"FDefine a constant instead of duplicating this literal "Earth" 3 times.(ß°ş
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æí­Ìÿÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(¥ÌŠ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÏŠÍ¡
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ù ä¬ıÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¬ó„Èúÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(İ·ë¥ÿÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(ø“’Â
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ïÅ›¥øÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(²æ‰Ü
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(•ñ›Ğøÿÿÿÿ
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(áÁé€
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(æûÚÀ
+M	java:S106t"9Replace this use of System.out or System.err by a logger.(’¨š
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(²şÓ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(âïâ‡şÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(€²ÿÿÿÿÿ

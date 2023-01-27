@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Жн­Мяяяяя
+W
+java:S2259T"AA "NullPointerException" could be thrown; "key" is nullable here.(™®Ѕы
+O
+java:S5993"9Change the visibility of this constructor to "protected".(Й“юб
+5
+java:S2097R"Add a type test to this method.(ЌЬСг

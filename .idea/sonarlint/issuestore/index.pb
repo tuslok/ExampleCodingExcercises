@@ -171,3 +171,15 @@ F
 src/Final/SIBTest.java,9\c\9c2df4fb94e2b5d66be9dc969e7766df5646cf33
 C
 src/Final/Main.java,b\f\bfcfa6f6686c6f984f776da2c855c326b211e679
+N
+src/SetsTask/HeavenlyBody.java,d\f\df52ada74a686fc45ff5f5bd74a7b0b01d9bb40f
+S
+#src/SetAndHashSet/HeavenlyBody.java,8\b\8bd79d8903ae40a7bae85d2fffca86d03946b7ab
+H
+src/SetsTask/Planet.java,4\e\4efc707b0d98f4b87e24ebdc38818f948830ac37
+F
+src/SetsTask/Moon.java,5\f\5fe53a8c817e74972ad3860c5e194375a5638489
+F
+src/SetsTask/Main.java,4\1\41bcc9ad31580c97a6ab65974c557a638b0ce332
+K
+src/SetAndHashSet/Main.java,d\f\dfc883e87f1c328070cf5e4779ad84a96c288be4
