@@ -183,3 +183,9 @@ F
 src/SetsTask/Main.java,4\1\41bcc9ad31580c97a6ab65974c557a638b0ce332
 K
 src/SetAndHashSet/Main.java,d\f\dfc883e87f1c328070cf5e4779ad84a96c288be4
+T
+$src/sortedCollections/StockItem.java,3\8\38a0b0a9d3339f2ae38acd793a2318d04344b501
+Q
+!src/sortedCollections/Basket.java,d\4\d475c11f6a6bc060e6569e4dac2dd6dab9963c33
+T
+$src/sortedCollections/StockList.java,2\8\2851ddd0972170c487ed79555a4771e640a8c93e
