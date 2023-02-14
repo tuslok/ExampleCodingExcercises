@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4d4c89-7815-4351-81a4-aba7cc2d569b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Employees/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambdas/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6e15d8af9c3305b31c93ccd8b2ba844819178d5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Challenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <recent name="C:\Users\a887602\IdeaProjects\ExampleCodingExcercices\src\Paths\Dir7\Dir3\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Employees.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Employees.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Employees.Main" />
       <module name="ExampleCodingExcercises" />
@@ -106,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambdas.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Challenge.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambdas.*" />
+          <option name="PATTERN" value="Streams.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambdas.Main" />
+    <configuration name="Streams.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Main" />
       <module name="ExampleCodingExcercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambdas.*" />
+          <option name="PATTERN" value="Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Streams.Main" />
         <item itemvalue="Application.Employees.Main" />
         <item itemvalue="Application.Employees.Main (1)" />
         <item itemvalue="Application.Lambdas.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
